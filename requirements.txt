@@ -1,0 +1,20 @@
+# Google Gemini API
+google-genai>=0.8.0
+
+# Data handling
+pandas>=2.1.0
+openpyxl>=3.1.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Text analysis
+nltk>=3.8.0
+textblob>=0.18.0
+
+# LLM evaluation metrics
+rouge-score>=0.1.2
+bert-score>=0.3.13
+
+# Utilities
+tqdm>=4.66.0
